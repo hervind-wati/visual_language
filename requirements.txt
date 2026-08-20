@@ -1,8 +1,4 @@
 pyarrow
-dbt-core>=1.9,<1.12
-dbt-bigquery>=1.9,<1.12
-dbt-extractor
-dbt-coverage
 pre-commit
 fal
 slack-sdk
